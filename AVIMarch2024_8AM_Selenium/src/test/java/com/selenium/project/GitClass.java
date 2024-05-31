@@ -6,6 +6,8 @@ public class GitClass {
 		System.out.println("we are going to push code on git");
 		
 		System.out.println("changes in code");
+		
+		System.out.println("again changes in my code ");
 
 	}
 
